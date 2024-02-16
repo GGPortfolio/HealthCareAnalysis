@@ -11,15 +11,19 @@ The dataset, Hospital_Data.csv, contains 26,594 rows among 30 columns.
 
 ## 1. Purpose of this Case Study
 
-A. To Create a powerful dashboard report that enables an understanding of the key impacts on average LOS and cost for hospitals across the state of New York.
-B. Using insights to inform on where targeted quality improvements can be made to both improve the hospital's operational efficiency as well as the patient experience
+<ol style="list-style-type: upper-alpha;">
+<li>To Create a powerful dashboard report that enables an understanding of the key impacts on average LOS and cost for hospitals across the state of New York.</li>
+<li>Using insights to inform on where targeted quality improvements can be made to both improve the hospital's operational efficiency as well as the patient experience</li>
+</ol>
 
 ## Insights Explored
 
-A. Which hospitals stand out with the highest cost and LOS (length of stay) relative to the state average?
-B. Which hospitals stand out as the biggest outliers overall?
-C. Does larger surgical program size impact LOS and cost?
-D. Root cause analysis: What factors influence LOS and cost the most?
+<ol style="list-style-type: upper-alpha;">
+<li>Which hospitals stand out with the highest cost and LOS (length of stay) relative to the state average?</li>
+<li>Which hospitals stand out as the biggest outliers overall?</li>
+<li>Does larger surgical program size impact LOS and cost?</li>
+<li>Root cause analysis: What factors influence LOS and cost the most?</li>
+</ol>
 
 ## 2. Key DAX Measures Created
 
@@ -58,10 +62,12 @@ Surgical Program Size = SWITCH(
 ## 4. Dashboard 
 
 ### Key Insights:
-A. Average LOS is 2.65 days
-B. Average Cost of Discharging is $21,000
-C. The top 2 factors that result in an increase in LOS and Cost are Severity of Ilness and Risk of Mortality
-D. The report further allows us to analyze each hospitals performance against the state average.
+<ol style="list-style-type: upper-alpha;">
+<li>Average LOS is 2.65 days&nbsp;</li>
+<li>Average Cost of Discharging is $21,000</li>
+<li>The top 2 factors that result in an increase in LOS and Cost are Severity of Ilness and Risk of Mortality</li>
+<li>The report further allows us to analyze each hospitals performance against the state average.</li>
+</ol>
    
 
 <p><span style="color: #0000ff;"><strong>CLICK&nbsp;on the image to interact with the visual!&nbsp;</strong></span></p>
