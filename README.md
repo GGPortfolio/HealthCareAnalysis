@@ -12,7 +12,7 @@ The dataset, Hospital_Data.csv, contains 26,594 rows among 30 columns.
 ## 1. Purpose of this Case Study
 
 <ol style="list-style-type: upper-alpha;">
-<li>To Create a powerful dashboard report that enables an understanding of the key impacts on average LOS and cost for hospitals across the state of New York.</li>
+<li>Create a powerful dashboard report that enables an understanding of the key impacts on average LOS and cost for hospitals across the state of New York.</li>
 <li>Using insights to inform on where targeted quality improvements can be made to both improve the hospital's operational efficiency as well as the patient experience</li>
 </ol>
 
