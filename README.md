@@ -1,6 +1,15 @@
 # Health Care Analysis (Case Study)
 <p><a href="https://app.powerbi.com/view?r=eyJrIjoiNThlYjI1OGEtZWE2OC00Y2ZkLWFhNDMtMTdmZWY3ZDgzMzJhIiwidCI6Ijk5YjY0NTFkLTRmY2QtNDE1Zi1iNGJlLWQ5N2ZhZGJjZGI5ZiJ9">View Interactive Dashboard</a></p>
 
+### Key Insights:
+<ol style="list-style-type: upper-alpha;">
+<li>Average LOS(length of stay) is 2.65 days&nbsp;</li>
+<li>Average Cost of Discharging is $21,000</li>
+<li>The top 2 factors that result in an increase in LOS and Cost are Severity of Ilness and Risk of Mortality</li>
+<li>The report further allows us to analyze each hospitals performance against the state average.</li>
+</ol>
+
+
 ## About this Case Study 
 In healthcare, improving efficiency while maintaining high-quality patient care is a top priority. In this Power BI Case study, I've explored a real-world health care dataset to uncover hospital efficiency insights for a fictional consulting company called HealthStat. The dataset contains information about inpatient stays in New York State. 
 I analyzed attributes impacting the patient length of stay (LOS) and cost and worked to identify factors contributing to hospital differences. Leveraging my DAX skills I created measures and generated insightful visualizations. To finish off, I brought it all together in a sophisticated business dashboard to communicate insights for the HealthStat team. This case study gave me a chance to practice a range of Power BI skills, working with real-world data.
