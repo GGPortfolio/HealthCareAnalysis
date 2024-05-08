@@ -5,7 +5,7 @@
 <ol style="list-style-type: upper-alpha;">
 <li>Average LOS(length of stay) is 2.65 days&nbsp;</li>
 <li>Average Cost of Discharging is $21,000</li>
-<li>The top 2 factors that result in an increase in LOS and Cost are Severity of Ilness and Risk of Mortality</li>
+<li>The top 2 factors that result in an increase in LOS and Cost are Severity of Illness and Risk of Mortality</li>
 <li>The report further allows us to analyze each hospitals performance against the state average.</li>
 </ol>
 
@@ -74,7 +74,7 @@ Surgical Program Size = SWITCH(
 <ol style="list-style-type: upper-alpha;">
 <li>Average LOS is 2.65 days&nbsp;</li>
 <li>Average Cost of Discharging is $21,000</li>
-<li>The top 2 factors that result in an increase in LOS and Cost are Severity of Ilness and Risk of Mortality</li>
+<li>The top 2 factors that result in an increase in LOS and Cost are Severity of Illness and Risk of Mortality</li>
 <li>The report further allows us to analyze each hospitals performance against the state average.</li>
 </ol>
    
